@@ -74,3 +74,5 @@ print(first_row[0])
 # Print the 'state' column of the first row by using its name
 print(first_row['state'])
 
+#test pycharm committing to github
+print('Hi')
