@@ -76,3 +76,6 @@ print(first_row['state'])
 
 #test pycharm committing to github
 print('Hi')
+
+#test update git repo
+print('test 2')
